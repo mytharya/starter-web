@@ -1,0 +1,3 @@
+[submodule "git_course"]
+	path = git_course
+	url = https://github.com/mytharya/git_course.git
